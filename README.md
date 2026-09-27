@@ -47,10 +47,30 @@ https://multi-vendor-ecommerce-website-henna.vercel.app/
 ## 📁 Project Structure
 
 ```text
-github-final-project/
+Multi-Vendor E-Commerce Marketplace
+/
 │
 ├── Frontend/
 │
 ├── Backend/
 │
 └── README.md
+## 📸 Project Screenshots
+
+### 🏠 Home Page
+![Home Page](home.png)
+
+### 🛍️ Products Page
+![Products Page](product.png)
+
+### 🔐 Login Page
+![Login Page](loginpage.png)
+
+### 🏪 Vendor Registration
+![Vendor Registration](vendor%20registration.png)
+
+---
+
+
+
+
